@@ -33,7 +33,7 @@
         "hoa/file"       : "~1.0",
         "hoa/iterator"   : "dev-master",
         "hoa/math"       : "~1.0",
-        "hoa/protocol"   : "~1.0",
+        "hoa/protocol"   : "dev-master",
         "hoa/regex"      : "~1.0",
         "hoa/visitor"    : "~2.0"
     },
